@@ -1,0 +1,30 @@
+{
+  "name": "keplerian-walkerdelta-propagator",
+  "version": "1.0.0",
+  "description": "A JavaScript library for two-body Keplerian orbital propagation and Walker Delta constellation generation",
+  "main": "keplerianPropagator.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "orbital",
+    "propagation",
+    "keplerian",
+    "satellite",
+    "space",
+    "astrodynamics",
+    "walker-delta",
+    "constellation"
+  ],
+  "author": "ralphmcralph",
+  "license": "GPL-3.0 license",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ralphmcralph/keplerian-propagator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ralphmcralph/keplerian-propagator/issues"
+  },
+  "homepage": "https://github.com/ralphmcralph/keplerian-propagator#readme"
+}
