@@ -1,4 +1,4 @@
-# Keplerian Constellation Propagator
+# Keplerian Propagator and Walker Delta constellation generator
 
 A JavaScript library for two-body Keplerian orbital propagation and Walker Delta constellation generation. The library provides tools for satellite position calculation in both ECI and ECEF coordinate systems.
 
